@@ -1,0 +1,17 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.inner {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  background-color: orange;
+  color: white;
+  line-height: 100px;
+  font-size: 1.5em;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 10px;
+}
